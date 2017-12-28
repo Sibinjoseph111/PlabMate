@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "553922603298",
+    "firebase_url": "https://plabmate-2c58e.firebaseio.com",
+    "project_id": "plabmate-2c58e",
+    "storage_bucket": "plabmate-2c58e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553922603298:android:200cb69c3d4b99bd",
+        "android_client_info": {
+          "package_name": "com.example.hp.plabmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553922603298-ln6dlj6uqeg1gtplvutmskn3q1ul79rr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.plabmate",
+            "certificate_hash": "b4aa678f48db8f48d89f80d0b485181b9af12e1b"
+          }
+        },
+        {
+          "client_id": "553922603298-r0vv1568nkmaicil080gbqlv46g7pa8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaOxTGqr7mAHXjLZNYLvONR8MiZ4V21rI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553922603298-r0vv1568nkmaicil080gbqlv46g7pa8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

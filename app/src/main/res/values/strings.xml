@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PlabMate</string>
+    <string name="username_ET_hint">Email id</string>
+    <string name="password_ET_hint">Password</string>
+    <string name="Register_BT">Register</string>
+
+</resources>
